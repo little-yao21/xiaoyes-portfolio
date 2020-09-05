@@ -8,7 +8,7 @@ Want to be Java software engineer after graduation.
 
 # What I hope to learn
 Learn to create better data visualizations supported by narrative (really need this skill in Pres, good visualization leeds to effective communication).
-Learn some theory about nice color combintaion, be able to choose various ways to represente data based on the needs, tell good story with the help of my data.
+Learn some theories about nice color combination, be able to choose various ways to represente data based on the needs, tell good story with the help of my data.
 
 # Portfolio
 Comming soon~
