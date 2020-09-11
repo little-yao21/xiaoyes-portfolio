@@ -12,3 +12,5 @@ Learn some theories about nice color combination, be able to choose various ways
 
 # Portfolio
 Comming soon~
+
+My first try on flourish.studio: [King County Covid-19](https://little-yao21.github.io/xiaoyes-portfolio/KingCounty)
