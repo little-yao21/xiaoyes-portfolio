@@ -11,6 +11,6 @@ Learn to create better data visualizations supported by narrative (really need t
 Learn some theories about nice color combination, be able to choose various ways to represente data based on the needs, tell good story with the help of my data.
 
 # Portfolio
-Comming soon~
-
-My first try on flourish.studio: [King County Covid-19](https://little-yao21.github.io/xiaoyes-portfolio/KingCounty)
+Here is a list of links that will lead to my data visualization works~
+1. My first try with flourish.studio: [King County Covid-19](https://little-yao21.github.io/xiaoyes-portfolio/KingCounty)
+2. HW2 Part1: [General government debt](/General-government-debt.md)
