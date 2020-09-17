@@ -9,11 +9,30 @@
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/3756083" data-url="https://flo.uri.sh/visualisation/3756083/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Comparison among three charts
-| Type of Chart    | Advantages | Disadvantages  |
-|---|---|---|
-|Bar Chart    | 1. Easy to compare data among different contries.    <br>2. Simple and clear. | 1. Not able to show data from differnt years at the same time,<br> hard to see trends through out years.  | 
-|Grid of lines| 1. Simple and intense.   <br> 2. Able to show multiple information in one big chart (the GDP debt ratio of a number of countries and years).  |1. Data are seperated into each grids, hard to make close comparison.   |
-|Heat Chart   | 1. Easy to see trends in whole chart(both countries and years). <br> 2. Provide perceptual and recognizable understanding of data throught color. | 1. Not very precise on information(since it relies on color, more like overall sense) <br> 2. Good color is hard to choose. |
+
+<table>
+    <tr>
+      <td>Type of Chart </td>
+      <td>Advantages</td>
+      <td>Disadvantages</td>
+    </tr>
+     <tr>
+      <td>Bar Chart  </td>
+      <td>1. Easy to compare data among different contries.    <br>2. Simple and clear. </td>
+      <td>1. Not able to show data from differnt years at the same time, hard to see trends through out years.</td>
+    </tr>
+     <tr>
+      <td>Grid of lines </td>
+      <td>1. Simple and intense.   <br> 2. Able to show multiple information in one big chart (the GDP debt ratio of a number of countries and years).</td>
+      <td>1. Data are seperated into each grids, hard to make close comparison.</td>
+    </tr>
+     <tr>
+      <td>Heat Chart </td>
+      <td>1. Easy to see trends in whole chart(both countries and years). <br> 2. Provide perceptual and recognizable understanding of data throught color.</td>
+      <td>1. Not very precise on information(since it relies on color, more like overall sense) <br> 2. Good color is hard to choose.</td>
+    </tr>
+</table>
+
 
 All the data used in the above charts come form [The Organization for Economic Co-operation and Development](https://data.oecd.org/gga/general-government-debt.htm)
 In conclusion, all three charts have their own pros and cons. Bar chart is the most simple and classic chart among them. It can be used to give relativly precise interpretation of the data. For example, when we look at the bar chart in this page, it's easy to figure out, in one certain year, which country has the highest/lowest debt-to-gdp ratio. We can also have a sense of how each country's ratio differs from each other (e.g. A is twice as B). But it's hard to make comparison/seek trends across different years through one bar chart. Grid of lines are good at this. Since there a lot of different countries to explore across a number of different years, grid chart can arrange multiple small charts into one big grid so that we can visualize the debt-to-gdp ratio easily across a number of countries and years. But at the same time, since all the lines are seperated into small grids, it's hard to make close comparison among two random lines. 
