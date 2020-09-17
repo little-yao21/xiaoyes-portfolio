@@ -13,4 +13,4 @@ Learn some theories about nice color combination, be able to choose various ways
 # Portfolio
 Here is a list of links that will lead to my data visualization works~
 1. My first try with flourish.studio: [King County Covid-19](https://little-yao21.github.io/xiaoyes-portfolio/KingCounty)
-2. HW2 Part1: [General government debt](/General-government-debt.md)
+2. HW2: [General government debt](/General-government-debt.md)
