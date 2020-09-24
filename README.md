@@ -14,4 +14,4 @@ Learn some theories about nice color combination, be able to choose various ways
 Here is a list of links that will lead to my data visualization works~
 1. My first try with flourish.studio: [King County Covid-19](https://little-yao21.github.io/xiaoyes-portfolio/KingCounty)
 2. HW2: [General government debt](/General-government-debt.md)
-3. HW3: [Science remains male-dominated](/Science remains male-dominated.md)
+3. HW3: [Science remains male-dominated](/Science-remains-male-dominated.md)
