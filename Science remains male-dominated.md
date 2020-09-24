@@ -27,3 +27,5 @@ In the end, I choose to use grouped bars to show the current women publishers ra
 
 #### Redesigned data visualization:
 <div class="flourish-embed flourish-chart" data-src="visualisation/3821044" data-url="https://flo.uri.sh/visualisation/3821044/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[Back to homepage](/README.md)
