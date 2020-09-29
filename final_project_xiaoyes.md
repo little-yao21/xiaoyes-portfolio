@@ -9,7 +9,8 @@ Project structure: <br><br>
         &dArr;<br>
   20s: Conclusion (Tasty but better not drink too much)<br>
 
-Project arc: (image) <br><br>
+Project arc:  <br><br>
+[arc](/final1.png)
 
 #### Initial sketches
 
