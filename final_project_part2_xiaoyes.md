@@ -21,8 +21,8 @@ People who likes to share photos of drinking bubble tea will be a good target.
 c. Interview script:
 [script is here](/interview_script.md)
 
-d. Findings from my interviews:
-
+d. Findings from my interviews:<br>
+Brief Summary 
 <table>
     <tr>
       <td>What Worked?</td>
@@ -42,10 +42,53 @@ d. Findings from my interviews:
     </tr>
 </table>
 
-e. Changes plan on implementing to visualizations next week: 
-<ol>
-  <li>Mix flour, baking powder, sugar, and salt.</li>
-  <li>In another bowl, mix eggs, milk, and oil.</li>
-</ol>
+Detailed Analysis
+<table>
+    <tr>
+      <td>Questions</td>
+      <td>Findings</td>
+       <td>Plan on changing</td>
+    </tr>
+     <tr>
+      <td>1.Do you like drinking boba tea? If yes, how often do you drink? What's your favorite toppings and sweetness level? </td>
+      <td>1. </td>
+      <td>1. </td>   
+    </tr>
+    <tr>
+      <td>2.What do you think is the topic of this story? </td>
+      <td>1. </td>
+      <td>1. </td>   
+    </tr>
+    <tr>
+      <td>3.Was this story clear and easy to understand? Did you feel engaged? </td>
+      <td>1. </td>
+      <td>1. </td>   
+    </tr>
+    <tr>
+      <td>4.Do the use of data and visualizations support the presentation? Was that useful and informative? </td>
+      <td>1. </td>
+      <td>1. </td>   
+    </tr>
+    <tr>
+      <td>5.Can you tell me a part you liked the most? </td>
+      <td>1. </td>
+      <td>1. </td>   
+    </tr>
+    <tr>
+      <td>6.Did you find any places that were confusing? </td>
+      <td>1. </td>
+      <td>1. </td>   
+    </tr>
+    <tr>
+      <td>7. Is there a clear call to action or next step? </td>
+      <td>1. </td>
+      <td>1. </td>   
+    </tr>
+    <tr>
+      <td>8.After seeing this story, would you change your frequency of buying boba tea? or Would you try to DIY boba tea at home?</td>
+      <td>1. </td>
+      <td>1. </td>   
+    </tr>
+</table>
 
 [Back to homepage](/README.md)
