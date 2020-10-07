@@ -22,9 +22,9 @@ Q6: Did you find any places that were confusing?
 
 Q7: Is there a clear call to action or next step?
 
-Q7: After seeing this story, would you change your frequency of buying boba tea? or Would you try to DIY boba tea at home?
+Q8: After seeing this story, would you change your frequency of buying boba tea? or Would you try to DIY boba tea at home?
 
-Q8: Do you have any other suggestions?
+Q9: Do you have any other suggestions?
 
 ## Wrap-up
 “Thank you so much for your time. Do you have any questions for me?”
