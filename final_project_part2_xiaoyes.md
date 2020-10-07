@@ -3,7 +3,7 @@
 In Part II I will continue constructing and refining the actual narrative that will take the reader on the journey through my story. <br>
 Wireframes/storyboards and user research will be included in this page. 
 
-For content in Part I (copies to working datasets, outline and sketches of final project, method and medium planned on using) please check [this site.](/final_project_part1_xiaoye.md)
+For content in Part I (copies to working datasets, outline and sketches of final project, method and medium planned on using) please check [this site.](/final_project_part1_xiaoyes.md)
 
 
 ### Story Board
