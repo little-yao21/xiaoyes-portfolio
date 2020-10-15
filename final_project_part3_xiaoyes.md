@@ -50,7 +50,7 @@ For all data:
 </tr>
 <tr>
   <td>Bubble tea stores in China</td>
-  <td>https://about.meituan.com/detail/36</td>
+  <td>[Meituan.com](https://about.meituan.com/detail/36)</td>
 </tr>
 <tr>
   <td>Number of Starbucks in Worldwide</td>
