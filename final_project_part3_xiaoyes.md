@@ -43,39 +43,39 @@ For all data:
 <table>
 <tr>
   <td>Content of the Resource</td>
-  <td>Reference</td>
+  <td>Links to riginal source</td>
 </tr>
 <tr>
   <td>Bubble tea stores in China</td>
-  <td>[Meituan.Com](https://about.meituan.com/detail/36)</td>
+  <td>https://about.meituan.com/detail/36</td>
 </tr>
 <tr>
   <td>Number of Starbucks in Worldwide</td>
-  <td>[Statista](https://www.statista.com/statistics/218366/number-of-international-and-us-starbucks-stores/)</td>
+  <td>https://www.statista.com/statistics/218366/number-of-international-and-us-starbucks-stores/</td>
 </tr>
  <tr>
   <td>Popularity trend of Boba tea in U.S.</td>
-  <td>[Google Trend](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=boba)</td>
+  <td>https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=boba</td>
 </tr>
 <tr>
   <td>Boba tea components analysis</td>
-  <td>[Calories and sugars in boba milk tea](https://doi.org/10.1002/fsn3.362)</td>
+  <td>https://doi.org/10.1002/fsn3.362</td>
 </tr>
 <tr>
   <td>Calories in food</td>
-  <td>[Foodfacts](http://apjcn.nhri.org.tw/server/info/booksphds/books/foodfacts/html/data/data2g.html)</td>
+  <td>http://apjcn.nhri.org.tw/server/info/booksphds/books/foodfacts/html/data/data2g.html</td>
 </tr>
 <tr>
   <td>2005-2020 Dietary Guidelines</td>
-  <td>[Dietary Guidelines for Americans 2015–2020 8th Edition](https://health.gov/our-work/food-nutrition/2015-2020-dietary-guidelines/guidelines/)</td>
+  <td>https://health.gov/our-work/food-nutrition/2015-2020-dietary-guidelines/guidelines/</td>
 </tr>
 <tr>
   <td>Possibility of getting type 2 diabetes</td>
-  <td>[Diabetesjournals](https://care.diabetesjournals.org/content/diacare/33/11/2477.full.pdf)</td>
+  <td>https://care.diabetesjournals.org/content/diacare/33/11/2477.full.pdf</td>
 </tr>
 <tr>
-  <td>Information about Stevia</td>
-  <td>[Stevia](https://www.stevia.com/)</td>
+  <td>Information about Stevia and sugar</td>
+  <td>https://www.stevia.com/</td>
 </tr>
 </table>
 
@@ -88,15 +88,18 @@ For all graphs:
 <tr>
   <td>Background pics used in shorthand </td>
   <td>
-    1. [pic 1](https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm)<br>
-    2. [pic 2](https://thenovicechefblog.com/bubble-tea/)<br>
-    3. [pic 3]<br>
-    4. [pic 4]<br>
-    5. [pic 5](https://honestlyyum.com/14737/pumpkin-spice-bubble-tea-with-boba/)<br>
-    6. [pic 6](https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm)<br>
-    7. [pic 7](https://happyhappynester.com/how-to-make-bubble-tea-boba-tea/
-)<br>
-    8. [pic 8](https://www.walmart.com/search/?query=sugar%20alternative&typeahead=sugar%20alter)<br>
+    1. ![pic1](https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm) <br>
+    2. ![pic2](https://thenovicechefblog.com/bubble-tea/) <br>
+    3. ![pic3](https://www.npr.org/sections/thesalt/2016/03/22/471448393/bubble-tea-is-back-with-a-vengeance) <br>
+    4. ![pic4](https://www.chattanoogataichitea.com/)<br>
+    5. ![pic5](https://honestlyyum.com/14737/pumpkin-spice-bubble-tea-with-boba/)<br>
+    6. ![pic6](https://www.thespruceeats.com/bubble-tea-recipe-694162)<br>
+    7. ![pic7](https://happyhappynester.com/how-to-make-bubble-tea-boba-tea/)<br>
+    8. ![pic8](https://www.healthline.com/health/food-nutrition/stevia-side-effects)
+    9. ![pic9](https://www.lark.com/blog/why-added-sugar-labels-matter-for-diabetes-prevention/)
+    10.![pic10](https://www.walmart.com/search/?query=sugar%20alternative&typeahead=sugar%20alter)<br>
+    11.![pic11](https://www.themanual.com/food-and-drink/what-is-bubble-tea-history-best-flavors/)
+    12.![pic12](https://www.godairyfree.org/dining-out/boba-guys)
   </td>
 </tr>
 </table>
