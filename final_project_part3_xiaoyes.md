@@ -83,23 +83,23 @@ For all graphs:
 <table>
 <tr>
   <td>Content of the Resource</td>
-  <td>Reference</td>
+  <td>Links</td>
 </tr>
 <tr>
-  <td>Background pics used in shorthand </td>
+  <td>Background pics used in shorthand(listed in appearence sequence) </td>
   <td>
-    1. ![pic1](https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm) <br>
-    2. ![pic2](https://thenovicechefblog.com/bubble-tea/) <br>
-    3. ![pic3](https://www.npr.org/sections/thesalt/2016/03/22/471448393/bubble-tea-is-back-with-a-vengeance) <br>
-    4. ![pic4](https://www.chattanoogataichitea.com/)<br>
-    5. ![pic5](https://honestlyyum.com/14737/pumpkin-spice-bubble-tea-with-boba/)<br>
-    6. ![pic6](https://www.thespruceeats.com/bubble-tea-recipe-694162)<br>
-    7. ![pic7](https://happyhappynester.com/how-to-make-bubble-tea-boba-tea/)<br>
-    8. ![pic8](https://www.healthline.com/health/food-nutrition/stevia-side-effects)
-    9. ![pic9](https://www.lark.com/blog/why-added-sugar-labels-matter-for-diabetes-prevention/)
-    10.![pic10](https://www.walmart.com/search/?query=sugar%20alternative&typeahead=sugar%20alter)<br>
-    11.![pic11](https://www.themanual.com/food-and-drink/what-is-bubble-tea-history-best-flavors/)
-    12.![pic12](https://www.godairyfree.org/dining-out/boba-guys)
+    1. https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm <br>
+    2. https://thenovicechefblog.com/bubble-tea/ <br>
+    3. https://www.npr.org/sections/thesalt/2016/03/22/471448393/bubble-tea-is-back-with-a-vengeance <br>
+    4. https://www.chattanoogataichitea.com/ <br>
+    5. https://honestlyyum.com/14737/pumpkin-spice-bubble-tea-with-boba/ <br>
+    6. https://www.thespruceeats.com/bubble-tea-recipe-694162 <br>
+    7. https://happyhappynester.com/how-to-make-bubble-tea-boba-tea/ <br>
+    8. https://www.healthline.com/health/food-nutrition/stevia-side-effects <br>
+    9. https://www.lark.com/blog/why-added-sugar-labels-matter-for-diabetes-prevention/ <br>
+    10.https://www.walmart.com/search/?query=sugar%20alternative&typeahead=sugar%20alter <br>
+    11.https://www.themanual.com/food-and-drink/what-is-bubble-tea-history-best-flavors/ <br>
+    12.https://www.godairyfree.org/dining-out/boba-guys
   </td>
 </tr>
 </table>
