@@ -1,5 +1,9 @@
 ## A cup of bubble tea a day, might keep your healthy body away
 
+This is the Part I (Idea for final project)section of final project.
+For content in Part II (Design and user research) please check [this site.](/final_project_part2_xiaoyes.md) <br>
+For content in Part III (Final Deliverable) please check [this site.](/final_project_part3_xiaoyes.md) <br>
+
 #### Outline
 Project summary: A cup of bubble tea a day, might keep your healthy body away!<br><br>
 Project structure: <br><br>
