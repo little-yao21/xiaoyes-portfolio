@@ -43,7 +43,7 @@ For all data:
 <table>
 <tr>
   <td>Content of the Resource</td>
-  <td>Links to riginal source</td>
+  <td>Links to original source</td>
 </tr>
 <tr>
   <td>Bubble tea stores in China</td>
@@ -83,7 +83,7 @@ For all graphs:
 <table>
 <tr>
   <td>Content of the Resource</td>
-  <td>Links</td>
+  <td>Links to original source</td>
 </tr>
 <tr>
   <td>Background pics used in shorthand(listed in appearence sequence) </td>
