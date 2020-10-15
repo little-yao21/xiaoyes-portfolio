@@ -3,8 +3,8 @@
 In Part II I will continue constructing and refining the actual narrative that will take the reader on the journey through my story. <br>
 Wireframes/storyboards and user research will be included in this page. 
 
-For content in Part I (copies to working datasets, outline and sketches of final project, method and medium planned on using) please check [this site.](/final_project_part1_xiaoyes.md)
-
+For content in Part I (copies to working datasets, outline and sketches of final project, method and medium planned on using) please check [this site.](/final_project_part1_xiaoyes.md) <br>
+For content in Part III (Final Deliverable) please check [this site.](/final_project_part3_xiaoyes.md) <br>
 
 ### Story Board
 I used shorthand to form my story board. You can click on [this link.](https://preview.shorthand.com/fqGgLtwwhOV2UdGd)
