@@ -53,17 +53,17 @@ For all data: (Content of the Resource + Links to original source)
 8. [Information about Stevia and sugar](https://www.stevia.com/)
 
 For all graphs: (Background pics used in shorthand. Listed in appearance sequence)
-1. [pic 1](https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm)
-2. [pic 2](https://thenovicechefblog.com/bubble-tea)
-3. [pic 3](https://www.npr.org/sections/thesalt/2016/03/22/471448393/bubble-tea-is-back-with-a-vengeance)
-4. [pic 4](https://www.chattanoogataichitea.com/)
-5. [pic 5](https://honestlyyum.com/14737/pumpkin-spice-bubble-tea-with-boba/)
-6. [pic 6](https://www.thespruceeats.com/bubble-tea-recipe-694162)
-7. [pic 7](https://happyhappynester.com/how-to-make-bubble-tea-boba-tea/)
-8. [pic 8](https://www.healthline.com/health/food-nutrition/stevia-side-effects)
-9. [pic 9](https://www.lark.com/blog/why-added-sugar-labels-matter-for-diabetes-prevention/)
-10.[pic 10](https://www.walmart.com/search/?query=sugar%20alternative&typeahead=sugar%20alter)
-11.[pic 11](https://www.themanual.com/food-and-drink/what-is-bubble-tea-history-best-flavors/)
+1. [pic 1](https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm)<br>
+2. [pic 2](https://thenovicechefblog.com/bubble-tea)<br>
+3. [pic 3](https://www.npr.org/sections/thesalt/2016/03/22/471448393/bubble-tea-is-back-with-a-vengeance)<br>
+4. [pic 4](https://www.chattanoogataichitea.com/)<br>
+5. [pic 5](https://honestlyyum.com/14737/pumpkin-spice-bubble-tea-with-boba/)<br>
+6. [pic 6](https://www.thespruceeats.com/bubble-tea-recipe-694162)<br><br>
+7. [pic 7](https://happyhappynester.com/how-to-make-bubble-tea-boba-tea/)<br>
+8. [pic 8](https://www.healthline.com/health/food-nutrition/stevia-side-effects)<br>
+9. [pic 9](https://www.lark.com/blog/why-added-sugar-labels-matter-for-diabetes-prevention/)<br>
+10.[pic 10](https://www.walmart.com/search/?query=sugar%20alternative&typeahead=sugar%20alter)<br>
+11.[pic 11](https://www.themanual.com/food-and-drink/what-is-bubble-tea-history-best-flavors/)<br>
 12.[pic 12](https://www.godairyfree.org/dining-out/boba-guys)<br>
 
 
