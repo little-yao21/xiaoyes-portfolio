@@ -61,9 +61,9 @@ For all graphs: (Background pics used in shorthand. Listed in appearance sequenc
 6. [pic 6](https://www.thespruceeats.com/bubble-tea-recipe-694162)
 7. [pic 7](https://happyhappynester.com/how-to-make-bubble-tea-boba-tea/)
 8. [pic 8](https://www.healthline.com/health/food-nutrition/stevia-side-effects)
-9. [pic 9](https://www.lark.com/blog/why-added-sugar-labels-matter-for-diabetes-prevention/)<br>
-10.[pic 10](https://www.walmart.com/search/?query=sugar%20alternative&typeahead=sugar%20alter)<br>
-11.[pic 11](https://www.themanual.com/food-and-drink/what-is-bubble-tea-history-best-flavors/)<br>
+9. [pic 9](https://www.lark.com/blog/why-added-sugar-labels-matter-for-diabetes-prevention/)
+10.[pic 10](https://www.walmart.com/search/?query=sugar%20alternative&typeahead=sugar%20alter)
+11.[pic 11](https://www.themanual.com/food-and-drink/what-is-bubble-tea-history-best-flavors/)
 12.[pic 12](https://www.godairyfree.org/dining-out/boba-guys)<br>
 
 
