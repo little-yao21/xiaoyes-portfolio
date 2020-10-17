@@ -18,3 +18,4 @@ Here is a list of links that will lead to my data visualization works~
 4. HW4: [Final Project Part 1](/final_project_part1_xiaoyes.md)
 5. HW5: [Final Project Part 2](/final_project_part2_xiaoyes.md)
 6. HW6: [Final Project Part 3](/final_project_part3_xiaoyes.md)
+7. Final Project: [Boba tea](https://carnegiemellon.shorthandstories.com/-a-boba-tea-a-day--keeps-your-healthy-body-away---/index.html) 
