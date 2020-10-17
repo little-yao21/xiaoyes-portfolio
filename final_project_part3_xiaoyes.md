@@ -1,6 +1,6 @@
 ## Final project Part III
 
-This is the final deliverable page of my project. You can find all related message through this page.
+This is the final deliverable page of my project. You can find all related messages through this page.
 
 For content in Part I (Idea for final project) please check [this site.](/final_project_part1_xiaoyes.md) <br>
 For content in Part II (Design and user research) please check [this site.](/final_project_part2_xiaoyes.md) <br>
@@ -9,7 +9,7 @@ For content in Part II (Design and user research) please check [this site.](/fin
 
 ##### Intended Audience
 The topic of my story is: *A Boba Tea a day, keeps your healthy body away.*<br>
-As a result, my intended audience will be people who loves to drink boba tea frequently, or who have close family members/friends that love to drink boba tea. In the user research conducted in Part II, I interviewed three people. They all enjoy drinking boba tea, but they are not crazy lovers. They have their drinking frequency already under control, and often choose low level sweetness. For these people, my story sounds interesting, but won't affect them much. As a result, I found another two boba tea lovers(4-5 servings/week) to interview. From their feedback, I noticed that in my Call-To-Action part, i should give different suggestions to different type of audience. For the audience who really loves to drink boba tea, telling them "it's bad, drink less" is not very helpful. So, i customized three different call-to-action options: <br>
+As a result, my intended audience will be people who love to drink boba tea frequently, or who have close family members/friends that love to drink boba tea. In the user research conducted in Part II, I interviewed three people. They all enjoy drinking boba tea, but they are not crazy lovers. They have their drinking frequency already under control and often choose a low level of sweetness. For these people, my story sounds interesting, but won't affect them much. As a result, I found another two boba tea lovers(4-5 servings/week) to interview. From their feedback, I noticed that in my Call-To-Action part, I should give different suggestions to different type of audience. For the audience who really loves to drink boba tea, telling them "it's bad, drink less" is not very helpful. So, I customized three different call-to-action options: <br>
 <table>
 <tr>
   <td>Affection Level</td>
@@ -21,7 +21,7 @@ As a result, my intended audience will be people who loves to drink boba tea fre
 </tr>
 <tr>
   <td>Love Boba tea, can't stand not drinking it.</td>
-  <td>Choose lower sweetness level.</td>
+  <td>Choose a lower sweetness level.</td>
 </tr>
 <tr>
   <td>Love Boba tea, love sweet Boba tea.</td>
@@ -31,11 +31,11 @@ As a result, my intended audience will be people who loves to drink boba tea fre
 
 
 ##### Behind the scene
-From the initial story outline to the final story board, I spent about 3 weeks doing information research, data collection, data visualization, user research and storybord design. In the process, I realized the importance of doing user research. For me, this is the part that stands out to me the most. In part I, when I was designing the overall structure of my story, I decided to use a 25%, 50%, 25% structure for introduction, health issue, and call to action. However, when I was making sketches in part II, I didn't realize that my structure is in fact 40%, 50%, 10%. I just constructued sketches based on the information I found. In the introduction part, there were a lot of available and informative data, so I put many visualizations into it. It was until the user research did I realize my current structure seems "too heavy" in the head. One sample audience from my interview comment that "I understand that you want to say Boba tea is very popular and at the same time can cause health problems. So is this story designed to be something like a introduction to boba tea?" This wasn't entirely wrong but I wanted to put my focus more on the health issue part. I realized the problem of my story structure, and deleted several good but not necessary information from my story. I also put more emphasis on the call to action. I want my story to have a clear goal that aims at actually influencing my audience in some way, have some actual effect on them. <br>
+From the initial story outline to the final storyboard, I spent about 3 weeks doing information research, data collection, data visualization, user research, and storyboard design. In the process, I realized the importance of doing user research. For me, this is the part that stands out to me the most. In part I, when I was designing the overall structure of my story, I decided to use a 25%, 50%, 25% structure for introduction, health issue, and call to action. However, when I was making sketches in part II, I didn't realize that my structure is in fact 40%, 50%, 10%. I just constructed sketches based on the information I found. In the introduction part, there were a lot of available and informative data, so I put many visualizations into it. It was until the user research did I realize my current structure seems "too heavy" in the head. One sample audience from my interview comment that "I understand that you want to say Boba tea is very popular and at the same time can cause health problems. So is this story designed to be something like an introduction to boba tea?" This wasn't entirely wrong but I wanted to put my focus more on the health issue part. I realized the problem of my story structure and deleted several good but not necessary information from my story. I also put more emphasis on the call to action. I want my story to have a clear goal that aims at actually influencing my audience in some way, have some actual effect on them. <br>
 
-By doing user reseach, I can have the chance to understand what will be the fisrt impression on my story. Those sample audience never heared my story before. They know nothing about how and why I designed the story. They didn't spent hours searching for related informations. So, everything is new to them, their response will be more intuitive and will truly reflect the effect of my story. Sometimes the story designer is too familiar with the story so that some blind spots might exist for them. The part the designer feels quite informative might be confusing to the audience. I need to assume that the audience does not have any relevant background knowledge，they will only understand what is actually in the story. Every argument should be based on the content that is clearly stated in the story.
+By doing user research, I can have the chance to understand what will be the fisrt impression of my story. Those sample audience never heard my story before. They know nothing about how and why I designed the story. They didn't spend hours searching for related information. So, everything is new to them, their response will be more intuitive and will truly reflect the effect of my story. Sometimes the story designer is too familiar with the story so that some blind spots might exist for them. The part the designer feels quite informative might be confusing to the audience. I need to assume that the audience does not have any relevant background knowledge，they will only understand what is actually in the story. Every argument should be based on the content that is clearly stated in the story.
 
-You can visit my Github repository from [this link.](/README.md) All courseworks and the final project are included in that page. <br> 
+You can visit my Github repository from [this link.](/README.md) All coursework and the final project are included on that page. <br> 
 You can directly access my digital final project from [here.](https://carnegiemellon.shorthandstories.com/-a-boba-tea-a-day--keeps-your-healthy-body-away---/index.html) 
 
 #### Reference List
@@ -89,7 +89,7 @@ For all graphs:
   <td>Links to original source</td>
 </tr>
 <tr>
-  <td>Background pics used in shorthand(listed in appearence sequence) </td>
+  <td>Background pics used in shorthand(listed in appearance sequence) </td>
   <td>
     1. https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm <br>
     2. https://thenovicechefblog.com/bubble-tea/ <br>
