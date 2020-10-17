@@ -91,8 +91,9 @@ For all graphs:
 <tr>
   <td>Background pics used in shorthand(listed in appearance sequence) </td>
   <td>
-    [pic1](https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm) <br>
-    [pic2](https://thenovicechefblog.com/bubble-tea/) <br>
+    <a herf = "https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm"> pic 1</a><br>
+    [pic2](https://thenovicechefblog.com/bubble-tea) <br>
+    
     3. https://www.npr.org/sections/thesalt/2016/03/22/471448393/bubble-tea-is-back-with-a-vengeance <br>
     4. https://www.chattanoogataichitea.com/ <br>
     5. https://honestlyyum.com/14737/pumpkin-spice-bubble-tea-with-boba/ <br>
