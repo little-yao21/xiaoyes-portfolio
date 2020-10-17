@@ -42,72 +42,30 @@ You can directly access my digital final project from [here.](https://carnegieme
 
 The following table summarizes all the resources I used for my final project.<br>
 
-For all data:
-<table>
-<tr>
-  <td>Content of the Resource</td>
-  <td>Links to original source</td>
-</tr>
-<tr>
-  <td>Bubble tea stores in China</td>
-  <td>[Meituan.com](https://about.meituan.com/detail/36)</td>
-</tr>
-<tr>
-  <td>Number of Starbucks in Worldwide</td>
-  <td>https://www.statista.com/statistics/218366/number-of-international-and-us-starbucks-stores/</td>
-</tr>
- <tr>
-  <td>Popularity trend of Boba tea in U.S.</td>
-  <td>https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=boba</td>
-</tr>
-<tr>
-  <td>Boba tea components analysis</td>
-  <td>https://doi.org/10.1002/fsn3.362</td>
-</tr>
-<tr>
-  <td>Calories in food</td>
-  <td>http://apjcn.nhri.org.tw/server/info/booksphds/books/foodfacts/html/data/data2g.html</td>
-</tr>
-<tr>
-  <td>2005-2020 Dietary Guidelines</td>
-  <td>https://health.gov/our-work/food-nutrition/2015-2020-dietary-guidelines/guidelines/</td>
-</tr>
-<tr>
-  <td>Possibility of getting type 2 diabetes</td>
-  <td>https://care.diabetesjournals.org/content/diacare/33/11/2477.full.pdf</td>
-</tr>
-<tr>
-  <td>Information about Stevia and sugar</td>
-  <td>https://www.stevia.com/</td>
-</tr>
-</table>
+For all data: (Content of the Resource + Links to original source)
+1. [Bubble tea stores in China](https://about.meituan.com/detail/36)
+2. [Number of Starbucks in Worldwide](https://www.statista.com/statistics/218366/number-of-international-and-us-starbucks-stores/)
+3. [Popularity trend of Boba tea in the U.S.](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=boba)
+4. [Boba tea components analysis](https://doi.org/10.1002/fsn3.362)
+5. [Calories in food](http://apjcn.nhri.org.tw/server/info/booksphds/books/foodfacts/html/data/data2g.html)
+6. [2005-2020 Dietary Guidelines](https://health.gov/our-work/food-nutrition/2015-2020-dietary-guidelines/guidelines/)
+7. [Possibility of getting type 2 diabetes](https://care.diabetesjournals.org/content/diacare/33/11/2477.full.pdf)
+8. [Information about Stevia and sugar](https://www.stevia.com/)
 
-For all graphs:
-<table>
-<tr>
-  <td>Content of the Resource</td>
-  <td>Links to original source</td>
-</tr>
-<tr>
-  <td>Background pics used in shorthand(listed in appearance sequence) </td>
-  <td>
-    <a herf = "https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm">
-      <div>pic 1</div>
-    </a>
-    <a herf = "https://thenovicechefblog.com/bubble-tea"> pic 2</a>
-    3. https://www.npr.org/sections/thesalt/2016/03/22/471448393/bubble-tea-is-back-with-a-vengeance <br>
-    4. https://www.chattanoogataichitea.com/ <br>
-    5. https://honestlyyum.com/14737/pumpkin-spice-bubble-tea-with-boba/ <br>
-    6. https://www.thespruceeats.com/bubble-tea-recipe-694162 <br>
-    7. https://happyhappynester.com/how-to-make-bubble-tea-boba-tea/ <br>
-    8. https://www.healthline.com/health/food-nutrition/stevia-side-effects <br>
-    9. https://www.lark.com/blog/why-added-sugar-labels-matter-for-diabetes-prevention/ <br>
-    10.https://www.walmart.com/search/?query=sugar%20alternative&typeahead=sugar%20alter <br>
-    11.https://www.themanual.com/food-and-drink/what-is-bubble-tea-history-best-flavors/ <br>
-    12.https://www.godairyfree.org/dining-out/boba-guys
-  </td>
-</tr>
-</table>
+For all graphs: (Background pics used in shorthand. Listed in appearance sequence)
+1. [pic 1](https://www.freepik.com/premium-photo/taiwan-milk-tea-with-bubbles_7903528.htm)
+2. [pic 2](https://thenovicechefblog.com/bubble-tea)
+3. [pic 3](https://www.npr.org/sections/thesalt/2016/03/22/471448393/bubble-tea-is-back-with-a-vengeance)
+4. [pic 4](https://www.chattanoogataichitea.com/)
+5. [pic 5](https://honestlyyum.com/14737/pumpkin-spice-bubble-tea-with-boba/)
+6. [pic 6](https://www.thespruceeats.com/bubble-tea-recipe-694162)
+7. [pic 7](https://happyhappynester.com/how-to-make-bubble-tea-boba-tea/)
+8. [pic 8](https://www.healthline.com/health/food-nutrition/stevia-side-effects)
+9. [pic 9](https://www.lark.com/blog/why-added-sugar-labels-matter-for-diabetes-prevention/)<br>
+10.[pic 10](https://www.walmart.com/search/?query=sugar%20alternative&typeahead=sugar%20alter)<br>
+11.[pic 11](https://www.themanual.com/food-and-drink/what-is-bubble-tea-history-best-flavors/)<br>
+12.[pic 12](https://www.godairyfree.org/dining-out/boba-guys)<br>
+
 
 
 
